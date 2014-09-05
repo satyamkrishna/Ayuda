@@ -1,0 +1,22 @@
+.gallery li a img
+{
+	width: 150px;
+	height: 100px;
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.gallery li
+{
+	display: inline-block;
+}
+
+.gallery-event-title
+{
+	font-size: 1.4em;
+}
+
+.clearing-thumbs
+{
+	list-style-type:none;
+}

@@ -1,0 +1,38 @@
+.question {
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.answer {
+    background-color: #E9E9E9;
+    border-radius: 3px;
+    color: #555555;
+    margin-top: 10px;
+    padding: 10px;
+}
+.answer p
+{
+	margin-bottom: 5px;
+}
+.question-text
+{
+	 border-left: 1px solid #DDDDDD;
+	 height: 100%;
+	 margin-top: 5px;
+	 margin-bottom: 5px;
+}
+.question-text p
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.question-no
+{
+	padding-left:43px !important;
+	padding-top: 23px;
+}
+
+.faq
+{
+	margin-bottom: 20px;
+}
