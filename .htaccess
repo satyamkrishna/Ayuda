@@ -1,0 +1,21 @@
+RewriteEngine on  
+RewriteRule ^$ home
+RewriteRule home$ /modules/homepage/index.php
+RewriteRule contact$ /modules/homepage/contact.php
+RewriteRule join$ /modules/homepage/joinus.php
+RewriteRule team$ /modules/homepage/team.php
+RewriteRule whatwedo$ /modules/homepage/whatwedo.php
+RewriteRule logout$ /modules/homepage/logout.php
+RewriteRule wherewework$ /modules/homepage/wherewework.php
+RewriteRule addtask$ /modules/homepage/addtask.php
+RewriteRule viewtask$ /modules/homepage/viewtask.php
+RewriteRule school$ /modules/homepage/school.php
+RewriteRule faq$ /modules/homepage/faq.php
+RewriteRule login$ /modules/homepage/login.php
+RewriteRule terms&conditions$ /modules/homepage/terms.php
+RewriteRule suggestion$ /modules/homepage/thankyoucontact.php
+RewriteRule backsoon$ /modules/homepage/backsoon.php
+RewriteRule thankyou$ /modules/homepage/thankyou.php
+RewriteRule gallery$ /modules/homepage/gallery.php
+RewriteRule thank-you$ /modules/homepage/thankyous.php
+RewriteRule /modules/homepage/getPhoto.php$ getPhoto.php
