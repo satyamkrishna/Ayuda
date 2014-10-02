@@ -3,7 +3,8 @@
 
 <link rel="stylesheet" href="../../resources/css/foundation/normalize.css" />
 <link rel="stylesheet" href="../../resources/css/foundation/foundation.css" />
-<link rel="shortcut icon" type="image/png" href="../../resources/images/common/fav.png">
+<link rel="shortcut icon" href="../../resources/images/common/fav.png" type="image/x-icon">
+<link rel="icon" href="../../resources/images/common/fav.png" type="image/x-icon">
 <script src="../../resources/js/vendor/custom.modernizr.js"></script>
 
 <script src="../../resources/js/vendor/jquery.js"></script>
